@@ -5,7 +5,7 @@ Version spec format:
 package==version: Package is EXACTLY version
 package<=version: Package is less than or equal to version
 package=<version: Same as <=
-package>=version: Package is less than or equal to version
+package>=version: Package is greater than or equal to version
 package=>version: Same as >=
 package<<version: Package is less than version
 package>>version: Package is greater than version
